@@ -1,9 +1,9 @@
-# code_for_mypaper
-(1） code for the paper titled "Online Fault Diagnosis of Discrete Event Systems Using Labeled Petri Nets With an Overall Fault Status", which will be submitted to a journal.
+# code_for_mypaper   Authors: Guanghui ZHU
+(1）There are codes for the paper titled "Online Fault Diagnosis of Discrete Event Systems Using Labeled Petri Nets With an Overall Fault Status", which will be submitted to a journal.
 
 (2) To run the example in the paper, you should first install the GUROBI solver and make sure that the connection of GUROBI solver with MATLAB is correct.
 
-You can use the following commands to test the example in the paper.
+(3) You can use the following commands to test the example in the paper.
 
 
 Pre=[
